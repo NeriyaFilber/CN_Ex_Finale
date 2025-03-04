@@ -67,7 +67,7 @@ Before running this project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NeriyaFilber/CN_Ex_Final.git
+   git clone https://github.com/NeriyaFilber/CN_Ex_Finale.git
    cd computer-networking-project
    ```
 
